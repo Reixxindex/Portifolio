@@ -1,0 +1,1117 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Brant - Creative Portfolio & Agency",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/brant\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Me",
+            "screenshot": "screenshots\/about-me.jpg",
+            "source": "templates\/about-me.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/brant\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/brant\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services Detail",
+            "screenshot": "screenshots\/services-detail.jpg",
+            "source": "templates\/services-detail.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/brant\/template-kit\/services-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Project",
+            "screenshot": "screenshots\/project.jpg",
+            "source": "templates\/project.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/brant\/template-kit\/project\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Project Detail",
+            "screenshot": "screenshots\/project-detail.jpg",
+            "source": "templates\/project-detail.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/brant\/template-kit\/project-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing Plan",
+            "screenshot": "screenshots\/pricing-plan.jpg",
+            "source": "templates\/pricing-plan.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/brant\/template-kit\/pricing-plan\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonials",
+            "screenshot": "screenshots\/testimonials.jpg",
+            "source": "templates\/testimonials.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/brant\/template-kit\/testimonials\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/brant\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Blog",
+            "screenshot": "screenshots\/single-blog.jpg",
+            "source": "templates\/single-blog.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/brant\/template-kit\/single-blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Error",
+            "screenshot": "screenshots\/404-error.jpg",
+            "source": "templates\/404-error.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/brant\/template-kit\/404-error\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/brant\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Brant Header",
+            "screenshot": "screenshots\/brant-header.jpg",
+            "source": "templates\/brant-header.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/brant\/template-kit\/brand-header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Brant Footer",
+            "screenshot": "screenshots\/brant-footer.jpg",
+            "source": "templates\/brant-footer.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/brant\/template-kit\/brant-footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Brant Contact Form",
+            "screenshot": "screenshots\/brant-contact-form.jpg",
+            "source": "templates\/brant-contact-form.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/brant\/template-kit\/contact-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Brant Newsletter Form",
+            "screenshot": "screenshots\/brant-newsletter-form.jpg",
+            "source": "templates\/brant-newsletter-form.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/brant\/template-kit\/brant-newsletter-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.10.2",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.8.1",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.2.1",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "RomethemeKit For Elementor",
+            "version": "1.1.3",
+            "file": "rometheme-for-elementor\/RomeTheme.php",
+            "author": "Rometheme"
+        }
+    ],
+    "images": [
+        {
+            "filename": "BG-1.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/brant\/wp-content\/uploads\/sites\/44\/2023\/01\/BG-1-800x450.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/404-error.json",
+                    "name": "404 Error"
+                }
+            ],
+            "filesize": 87549,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "calm-friendly-handsome-bearded-guy-8HKSYN3-3.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/brant\/wp-content\/uploads\/sites\/44\/2023\/01\/calm-friendly-handsome-bearded-guy-8HKSYN3-3.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 854849,
+            "dimensions": [
+                600,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8HKSYN3"
+        },
+        {
+            "filename": "Icon-2.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/brant\/wp-content\/uploads\/sites\/44\/2023\/01\/Icon-2.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 4358,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "creative-agency-icon-set-EGQ8XX6"
+        },
+        {
+            "filename": "Icon-4.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/brant\/wp-content\/uploads\/sites\/44\/2023\/01\/Icon-4.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 14559,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "creative-agency-icon-set-EGQ8XX6"
+        },
+        {
+            "filename": "Icon-3.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/brant\/wp-content\/uploads\/sites\/44\/2023\/01\/Icon-3.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 9156,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "creative-agency-icon-set-EGQ8XX6"
+        },
+        {
+            "filename": "Icon-5.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/brant\/wp-content\/uploads\/sites\/44\/2023\/01\/Icon-5.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 8753,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "creative-agency-icon-set-EGQ8XX6"
+        },
+        {
+            "filename": "calm-friendly-handsome-bearded-guy-KHGGFPY-1.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/brant\/wp-content\/uploads\/sites\/44\/2023\/01\/calm-friendly-handsome-bearded-guy-KHGGFPY-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 218011,
+            "dimensions": [
+                750,
+                850
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-KHGGFPY"
+        },
+        {
+            "filename": "2.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/brant\/wp-content\/uploads\/sites\/44\/2023\/01\/2-800x625.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 289848,
+            "dimensions": [
+                1920,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8HKSYN3"
+        },
+        {
+            "filename": "app-screen-mockup-A4QMZDT-1.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/brant\/wp-content\/uploads\/sites\/44\/2023\/01\/app-screen-mockup-A4QMZDT-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 221332,
+            "dimensions": [
+                750,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-A4QMZDT"
+        },
+        {
+            "filename": "dropper-bottle-mockup-PB6MPYL.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/brant\/wp-content\/uploads\/sites\/44\/2023\/01\/dropper-bottle-mockup-PB6MPYL.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 178835,
+            "dimensions": [
+                750,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PB6MPYL"
+        },
+        {
+            "filename": "embarassed-dog-on-bed-SA2BDZW.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/brant\/wp-content\/uploads\/sites\/44\/2023\/01\/embarassed-dog-on-bed-SA2BDZW.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 217988,
+            "dimensions": [
+                750,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-SA2BDZW"
+        },
+        {
+            "filename": "the-perspective-website-mockup-EFU24H.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/brant\/wp-content\/uploads\/sites\/44\/2023\/01\/the-perspective-website-mockup-EFU24H.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 163405,
+            "dimensions": [
+                750,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "the-perspective-website-mockup-EFU24H"
+        },
+        {
+            "filename": "calm-friendly-handsome-bearded-guy-YX9T8Z9-e1674461328387.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/brant\/wp-content\/uploads\/sites\/44\/2023\/01\/calm-friendly-handsome-bearded-guy-YX9T8Z9-e1674461328387.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                }
+            ],
+            "filesize": 615166,
+            "dimensions": [
+                750,
+                850
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YX9T8Z9"
+        },
+        {
+            "filename": "close-up-of-a-focused-surgeon-NASLYNV.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/brant\/wp-content\/uploads\/sites\/44\/2023\/01\/close-up-of-a-focused-surgeon-NASLYNV-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 251714,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NASLYNV"
+        },
+        {
+            "filename": "Logo-2.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/brant\/wp-content\/uploads\/sites\/44\/2023\/01\/Logo-2.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                }
+            ],
+            "filesize": 9438,
+            "dimensions": [
+                300,
+                116
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "the-logos-60-SYXSJF"
+        },
+        {
+            "filename": "Logo-3.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/brant\/wp-content\/uploads\/sites\/44\/2023\/01\/Logo-3.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                }
+            ],
+            "filesize": 7226,
+            "dimensions": [
+                300,
+                116
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "the-logos-60-SYXSJF"
+        },
+        {
+            "filename": "Logo-4.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/brant\/wp-content\/uploads\/sites\/44\/2023\/01\/Logo-4.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                }
+            ],
+            "filesize": 6858,
+            "dimensions": [
+                300,
+                116
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "the-logos-60-SYXSJF"
+        },
+        {
+            "filename": "Logo-5.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/brant\/wp-content\/uploads\/sites\/44\/2023\/01\/Logo-5.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                }
+            ],
+            "filesize": 9112,
+            "dimensions": [
+                300,
+                116
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "the-logos-60-SYXSJF"
+        },
+        {
+            "filename": "Logo-6.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/brant\/wp-content\/uploads\/sites\/44\/2023\/01\/Logo-6.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                }
+            ],
+            "filesize": 4915,
+            "dimensions": [
+                300,
+                116
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "the-logos-60-SYXSJF"
+        },
+        {
+            "filename": "Logo-7.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/brant\/wp-content\/uploads\/sites\/44\/2023\/01\/Logo-7.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                }
+            ],
+            "filesize": 6653,
+            "dimensions": [
+                300,
+                116
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "the-logos-60-SYXSJF"
+        },
+        {
+            "filename": "Logo-8.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/brant\/wp-content\/uploads\/sites\/44\/2023\/01\/Logo-8.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                }
+            ],
+            "filesize": 4789,
+            "dimensions": [
+                300,
+                116
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "the-logos-60-SYXSJF"
+        },
+        {
+            "filename": "Logo-1.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/brant\/wp-content\/uploads\/sites\/44\/2023\/01\/Logo-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                }
+            ],
+            "filesize": 7805,
+            "dimensions": [
+                300,
+                116
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "the-logos-60-SYXSJF"
+        },
+        {
+            "filename": "calm-friendly-handsome-bearded-guy.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/brant\/wp-content\/uploads\/sites\/44\/2023\/01\/calm-friendly-handsome-bearded-guy.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                }
+            ],
+            "filesize": 714373,
+            "dimensions": [
+                600,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-KHGGFPY"
+        },
+        {
+            "filename": "cymatics-white-backgrounds-6K9J7EC-1.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/brant\/wp-content\/uploads\/sites\/44\/2023\/01\/cymatics-white-backgrounds-6K9J7EC-1-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 268779,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6K9J7EC"
+        },
+        {
+            "filename": "BG-9.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/brant\/wp-content\/uploads\/sites\/44\/2023\/01\/BG-9-800x250.png",
+            "templates": [
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 31714,
+            "dimensions": [
+                1920,
+                600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "BG-10.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/brant\/wp-content\/uploads\/sites\/44\/2023\/01\/BG-10-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                }
+            ],
+            "filesize": 59001,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Foto-1.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/brant\/wp-content\/uploads\/sites\/44\/2023\/01\/Foto-1.png",
+            "templates": [
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                }
+            ],
+            "filesize": 405981,
+            "dimensions": [
+                600,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-KHGGFPY"
+        },
+        {
+            "filename": "TTD.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/brant\/wp-content\/uploads\/sites\/44\/2023\/01\/TTD.png",
+            "templates": [
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                }
+            ],
+            "filesize": 6727,
+            "dimensions": [
+                300,
+                180
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Icon-6.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/brant\/wp-content\/uploads\/sites\/44\/2023\/01\/Icon-6.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 6940,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "creative-agency-icon-set-EGQ8XX6"
+        },
+        {
+            "filename": "Icon-8.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/brant\/wp-content\/uploads\/sites\/44\/2023\/01\/Icon-8.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 7594,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "creative-agency-icon-set-EGQ8XX6"
+        },
+        {
+            "filename": "Icon-7.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/brant\/wp-content\/uploads\/sites\/44\/2023\/01\/Icon-7.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 6043,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "creative-agency-icon-set-EGQ8XX6"
+        },
+        {
+            "filename": "Icon-9.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/brant\/wp-content\/uploads\/sites\/44\/2023\/01\/Icon-9.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 11348,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "creative-agency-icon-set-EGQ8XX6"
+        },
+        {
+            "filename": "Details-Web.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/brant\/wp-content\/uploads\/sites\/44\/2023\/01\/Details-Web-800x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-detail.json",
+                    "name": "Services Detail"
+                },
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                }
+            ],
+            "filesize": 175590,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Untitled-11.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/brant\/wp-content\/uploads\/sites\/44\/2023\/01\/Untitled-11.png",
+            "templates": [
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 90006,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-KHGGFPY"
+        },
+        {
+            "filename": "concept-of-freshness-fresh-strawberry-close-up-JFD9LZH1.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/brant\/wp-content\/uploads\/sites\/44\/2023\/01\/concept-of-freshness-fresh-strawberry-close-up-JFD9LZH1-800x489.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 169156,
+            "dimensions": [
+                900,
+                550
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-FD9LZH1"
+        },
+        {
+            "filename": "logo-01.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/brant\/wp-content\/uploads\/sites\/44\/2023\/01\/logo-01-800x283.png",
+            "templates": [
+                {
+                    "source": "templates\/brant-header.json",
+                    "name": "Brant Header"
+                },
+                {
+                    "source": "templates\/brant-footer.json",
+                    "name": "Brant Footer"
+                }
+            ],
+            "filesize": 21966,
+            "dimensions": [
+                1250,
+                442
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}
